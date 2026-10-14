@@ -1,0 +1,27 @@
+# Controle de Plantões — aplicativo instalável
+
+Este pacote contém uma versão web instalável (PWA) do Controle de Plantões.
+
+## O que inclui
+- Calendário e cadastro de plantões.
+- Categorias de plantão e setores configurados na versão atual.
+- Relatórios com opção de imprimir/salvar em PDF.
+- Exportação CSV.
+- Manifesto, ícones e cache offline para instalação no Android.
+
+## Como instalar no celular
+A instalação como aplicativo exige que estes arquivos estejam publicados em um endereço HTTPS.
+Depois de publicar:
+1. Abra o endereço no Google Chrome do Android.
+2. Use o botão “Instalar aplicativo” se aparecer; ou menu ⋮ > “Instalar app” / “Adicionar à tela inicial”.
+3. Os dados do aplicativo ficam armazenados localmente no navegador/aparelho. Faça exportações periódicas para backup.
+
+## Como publicar gratuitamente
+Uma opção é GitHub Pages:
+1. Crie uma conta no GitHub e um repositório público novo.
+2. Envie todos os arquivos desta pasta para a raiz do repositório.
+3. Em Settings > Pages, ative a publicação a partir da branch principal (root).
+4. Abra o endereço HTTPS gerado no Chrome do Android e instale.
+
+## Observação importante
+Este pacote não é um APK da Play Store e não foi publicado na internet. Para que o botão de instalação funcione, os arquivos precisam estar hospedados em HTTPS.
